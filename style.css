@@ -1,4 +1,9 @@
  body {
   text-align: center;
   color: black;
+  background: url(https://tse3.mm.bing.net/th?id=OIP.cmAs0rfvwD-WVDwPI9jaggEsCd&w=300&h=157&c=7&o=5&pid=1.7) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
